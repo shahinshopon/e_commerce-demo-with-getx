@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "641144573745",
+    "project_id": "fir-ecommerce-fedf6",
+    "storage_bucket": "fir-ecommerce-fedf6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:641144573745:android:1eedbc82c9f770c7a92a10",
+        "android_client_info": {
+          "package_name": "com.example.e_commerce"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "641144573745-scjnfcq83gb4lpn19emqce7ob58ejvus.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAt-pOkRBtQk2NgvYqs0gMdkhNnGkxlieI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "641144573745-scjnfcq83gb4lpn19emqce7ob58ejvus.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
